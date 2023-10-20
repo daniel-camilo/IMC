@@ -1,6 +1,6 @@
 # Aplicação desenvolvida por Daniel Camilo da Silva como formar de atividade prática
 # da disciplina de Linguagem de Programação do curso Tecnólogo em DevOps
-# da instituição de ensino Ampli Anhanguera Pitágoras.
+# da instituição de ensino Centro Universitário Anhanguera Pitágoras Ampli.
 
 # Tabela de classificação do Índice de Massa Corpórea (IMC):
 # 18.4 abaixo = Magreza
